@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "name": "MS Dhoni",
+      "username": "MSD",
+      "email": "msd@gmail.com",
+      "phone": "12345678",
+      "id": 10
+    }
+  ]
+}
